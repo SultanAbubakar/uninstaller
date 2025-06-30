@@ -68,7 +68,6 @@ export const AppList = ({
                   <div className="mr-3">
                     <Checkbox
                       checked={isSelected}
-                      readOnly
                       className="w-5 h-5"
                     />
                   </div>
